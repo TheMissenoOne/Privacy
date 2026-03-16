@@ -1,0 +1,24 @@
+# Política de Privacidade — Legal.Index
+
+A extensão **Legal.Index** foi desenvolvida com foco absoluto na privacidade do usuário. Nenhum dado pessoal é coletado, armazenado ou transmitido a terceiros.
+
+## 🔒 Dados processados localmente
+
+- O conteúdo das páginas do [Planalto.gov.br](https://www.planalto.gov.br) é processado **exclusivamente no navegador do usuário**.
+- A geração de embeddings semânticos ocorre localmente.
+- Nenhum texto de lei, pergunta ou resultado é enviado a servidores externos.
+
+## 💾 Dados armazenados localmente
+
+- Trechos grifados pelo usuário (texto, cor, URL da página) são salvos no `chrome.storage.local` do perfil do Chrome.
+- Esses dados **nunca deixam o dispositivo do usuário**.
+
+## 💳 Pagamentos
+
+- A verificação de assinatura utiliza o serviço [ExtensionPay](https://extensionpay.com).
+- Consulte a [Política de Privacidade do ExtensionPay](https://extensionpay.com/privacy) para mais informações.
+
+## 📬 Contato
+
+Para dúvidas ou solicitações relacionadas à privacidade, entre em contato:  
+**[seu e-mail]**
